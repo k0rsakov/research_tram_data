@@ -1,0 +1,13 @@
+/authentication.py
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/vcs.xml
+/.ipynb_checkpoints/speed_cluster_map-checkpoint.ipynb
+/.ipynb_checkpoints/speed_map-checkpoint.ipynb
+/.ipynb_checkpoints/tram_research-checkpoint.ipynb
+/.idea/research_tram_data.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
+/.ipynb_checkpoints/data_from_MSSQL_to_PostgreSQL-checkpoint.ipynb
+/.ipynb_checkpoints/authentication-checkpoint.py
