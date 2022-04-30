@@ -11,3 +11,8 @@
 /.idea/modules.xml
 /.ipynb_checkpoints/data_from_MSSQL_to_PostgreSQL-checkpoint.ipynb
 /.ipynb_checkpoints/authentication-checkpoint.py
+/notebooks/.ipynb_checkpoints/tram_research-checkpoint.ipynb
+/notebooks/.ipynb_checkpoints/speed_cluster_map-checkpoint.ipynb
+/notebooks/.ipynb_checkpoints/speed_map-checkpoint.ipynb
+/notebooks/.ipynb_checkpoints/data_from_MSSQL_to_PostgreSQL-checkpoint.ipynb
+/notebooks/authentication.py
